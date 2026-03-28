@@ -69,3 +69,4 @@ docker run --rm mlops-task
 * Reproducible pipeline execution
 * Clean separation of config, logic, and output
 * Production-inspired MLOps practices
+
